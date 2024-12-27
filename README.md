@@ -1,11 +1,11 @@
 ## Description
 
-### Comparative Analysis of DDPG, PPO, SAC and TD3 Agent Performance Using Distinct Reward Structures
+### Comparative Analysis of DDPG, PPO, SAC, and TD3 Agent Performance Using Distinct Reward Structures
 
-This code evaluates the performance of 4 reinforcement learning agents, DDPG, PPO, TD3 and SAC, each subjected to two different rewards.
+This code evaluates the performance of 4 reinforcement learning agents, DDPG, PPO, TD3, and SAC, each subjected to two different rewards.
 Example codes from SKRL were used to ensure consistent implementation and comparison across both scenarios.
 
-**Conclusion:** PPO tends to perform worse than the other algorithms when a sparse reward was used. Note that I have not tried to further tune PPO to make it work for this reward. DDPG, TD3 and SAC perform similarly when a sparse reward is used.
+**Conclusion:** PPO tends to perform worse than the other algorithms when a sparse reward was used. Note that I have not tried to further tune PPO to make it work for this reward. DDPG, TD3, and SAC perform similarly when a sparse reward is used.
 
 
 ### Install requirements
