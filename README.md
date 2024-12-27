@@ -1,3 +1,10 @@
+## Description
+
+### Comparative Analysis of DDPG and PPO Agent Performance Using Distinct Reward Structures
+
+This code evaluates the performance of two reinforcement learning agents, DDPG and PPO, each subjected to two different rewards.
+Example codes from SKRL were used to ensure consistent implementation and comparison across both scenarios.
+
 
 ### Install requirements
 
