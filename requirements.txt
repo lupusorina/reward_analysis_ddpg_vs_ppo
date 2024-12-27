@@ -1,0 +1,3 @@
+skrl==1.3.0
+tensorboard
+gymnasium==1.0.0
